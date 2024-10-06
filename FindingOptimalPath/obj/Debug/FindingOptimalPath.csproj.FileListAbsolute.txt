@@ -1,0 +1,7 @@
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\bin\Debug\FindingOptimalPath.exe.config
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\bin\Debug\FindingOptimalPath.exe
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\bin\Debug\FindingOptimalPath.pdb
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\obj\Debug\FindingOptimalPath.csproj.AssemblyReference.cache
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\obj\Debug\FindingOptimalPath.csproj.CoreCompileInputs.cache
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\obj\Debug\FindingOptimalPath.exe
+D:\Users\User\repos VS\FindingOptimalPath\FindingOptimalPath\obj\Debug\FindingOptimalPath.pdb
